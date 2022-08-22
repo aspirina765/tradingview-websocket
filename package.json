@@ -1,0 +1,12 @@
+{
+  "name": "wb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ip": "^1.1.8",
+    "kafkajs": "^2.2.0",
+    "node-fetch": "^3.2.10",
+    "tradingview-ws": "^0.0.3"
+  }
+}
